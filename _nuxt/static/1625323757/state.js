@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1625323757",layout:"default",error:a,state:{cartOpen:false,fastspring:{order:a,builder:a}},serverRendered:true,routePath:b,config:{fastspringStorefrontId:"moonwater.test.onfastspring.com\u002Fpopup-moonwater",_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null,"\u002F"));
