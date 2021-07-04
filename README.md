@@ -1,4 +1,6 @@
-# fastspring-store-sample
+# Fastspring Store Sample
+
+Built with [Nuxt.js](https://nuxtjs.org), this is an example storefront highlighting a Fastspring integration, used as a basis for this guide: [https://månevann.no/articles/fastspring-guide](https://månevann.no/articles/fastspring-guide).
 
 ## Build Setup
 
